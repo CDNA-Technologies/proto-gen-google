@@ -1,4 +1,4 @@
-name: appengine
+name: proto_gen_google
 version: 0.0.1-alpha
 description: >-
   Google's common protos generated in Dart.

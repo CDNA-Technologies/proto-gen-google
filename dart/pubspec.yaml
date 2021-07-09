@@ -1,0 +1,8 @@
+name: appengine
+version: 0.0.1-alpha
+description: >-
+  Google's common protos generated in Dart.
+  Copied from https://github.com/dart-lang/appengine/tree/master/lib/src/grpc_api/dart/google
+
+dependencies:
+  protobuf: ^2.0.0

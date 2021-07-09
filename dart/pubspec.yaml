@@ -1,5 +1,6 @@
 name: proto_gen_google
 version: 0.0.1-alpha
+publish_to: none
 description: >-
   Google's common protos generated in Dart.
   Copied from https://github.com/dart-lang/appengine/tree/master/lib/src/grpc_api/dart/google

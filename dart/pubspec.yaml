@@ -4,11 +4,11 @@ publish_to: none
 description: >-
   Google's common protos generated in Dart.
   Copied from https://github.com/dart-lang/appengine/tree/master/lib/src/grpc_api/dart/google
-  and deleted libraries the libraries that were not a part of
+  and deleted the libraries that were not a part of
   1. https://github.com/googleapis/api-common-protos/tree/master/google
   2. https://github.com/protocolbuffers/protobuf/tree/master/src/google
 environment:
-  sdk: '>=2.10.0 <3.0.0'
+  sdk: '>=2.0.0 <3.0.0'
 
 dependencies:
   protobuf: ^2.0.0

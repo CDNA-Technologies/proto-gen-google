@@ -8,7 +8,7 @@ description: >-
   1. https://github.com/googleapis/api-common-protos/tree/master/google
   2. https://github.com/protocolbuffers/protobuf/tree/master/src/google
 environment:
-  sdk: '>=2.0.0 <3.0.0'
+  sdk: '>=2.12.0 <4.0.0'
 
 dependencies:
   protobuf: ^2.0.0
